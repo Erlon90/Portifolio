@@ -1,0 +1,48 @@
+<mxfile host="app.diagrams.net" modified="2024-03-13T11:49:13.218Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="uGrmd3K2hDIIIZ3rMwQd" version="24.0.5" type="device">
+  <diagram name="Página-1" id="Fvc5W7pW_4DRerzoN7ud">
+    <mxGraphModel dx="2234" dy="1232" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ioEizXEBdQC3hXTO0PVU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-665" y="-48" width="626" height="346" as="geometry" />
+        </mxCell>
+        <mxCell id="MtyeOIyNpm03Zbi-PKwl-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="-665" y="-48" width="165" height="346" as="geometry">
+            <mxRectangle x="-665" y="-48" width="50" height="44" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MtyeOIyNpm03Zbi-PKwl-4" value="title&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" vertex="1" parent="MtyeOIyNpm03Zbi-PKwl-1">
+          <mxGeometry x="65" y="15" width="83" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="ioEizXEBdQC3hXTO0PVU-2" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-653" y="-37" width="37" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="MtyeOIyNpm03Zbi-PKwl-5" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="-48" width="461" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="MtyeOIyNpm03Zbi-PKwl-6" value="main" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="MtyeOIyNpm03Zbi-PKwl-5">
+          <mxGeometry width="230.5" height="109.00000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="MtyeOIyNpm03Zbi-PKwl-7" value="sub" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="61" width="158" height="238" as="geometry" />
+        </mxCell>
+        <mxCell id="MtyeOIyNpm03Zbi-PKwl-8" value="social media&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-664" y="214" width="164" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="MtyeOIyNpm03Zbi-PKwl-9" value="sobre&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-659" y="19" width="155" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="MtyeOIyNpm03Zbi-PKwl-11" value="Contatos" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-342" y="61" width="302" height="237" as="geometry" />
+        </mxCell>
+        <mxCell id="MtyeOIyNpm03Zbi-PKwl-15" value="" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="MtyeOIyNpm03Zbi-PKwl-11">
+          <mxGeometry x="72.5" width="47" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="MtyeOIyNpm03Zbi-PKwl-14" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-635" y="23" width="118" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
