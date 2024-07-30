@@ -2770,6 +2770,11 @@ fieldset:disabled a.btn {
   pointer-events: none;
 }
 
+.btn-primary a
+{
+  color: white;
+}
+
 .btn-primary {
   color: #fff;
   background-color: #695aa6;
